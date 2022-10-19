@@ -1,13 +1,17 @@
 <img align="center" src="src/assets/tela.gif" alt="Ignite Lab - Design System">
 
-# 📖 Ignite Lab - Design System
+## 📖 Ignite Lab - Design System
 
-Construção de um Design System, do figma ao código utilizando ferramentas como Storybook, Radix, Tailwind, explorando ao máximo as ferramentas do ecosistema do React.js. Na parte do Figma, foi introduzido conceitos e funcionalidades essenciais para o desenvolvimento de um Deisng System, são elas: auto-layout, componetização, variações e criação de tokens. Criado o layout, foi hora de criar os components utilizando Tailwindcss, Radix-ui e Storybook para documentar os componentes e suas variações. Finalizando o projeto, foi configurado um ambiente automatizado de CI/CD utilizando o GitHub Actions.
+O projeto consiste na construção de um Design System, do figma ao código, utilizando ferramentas como Storybook, Radix, Tailwind, Jest e MSW, explorando ao máximo as ferramentas mais atuais do ecossistema do React.js. 
+
+Na parte do Figma, foi introduzido conceitos e funcionalidades essenciais para o desenvolvimento de um Deisng System, sendo elas: auto-layout, componetização, variações e criação de tokens. Após a criação do layout, foi hora de colocar a mão no código, criando os components em React.js com Tailwind e documentando com Storybook. 
+
+Na parte final do projeto, foi configurado um ambiente automatizado de CI/CD utilizando o GitHub Actions e implementando alguns testes automatizados utilizando Jest e MSW.
 
 
 ## 🧪 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,tailwind,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,tailwind,githubactions,jest)](https://skillicons.dev)
 
 ## 🚀 Como executar
 
