@@ -1,39 +1,25 @@
-<img align="center" src="src/assets/tela.gif" alt="Ignite Lab - Design System">
+<h1 align="center">
+    <a href="src/assets/tela.gif"><img src="src/assets/tela.gif" alt="React Design System" border="0"></a>
+</h1>
 
-## 📖 Design System
+# Design System
 
-O projeto consiste na construção de um Design System, do figma ao código, utilizando ferramentas como Storybook, Radix, Tailwind, Jest e MSW, explorando ao máximo o ecossistema do React.js. 
+Um Design System criado do Figma ao código, utilizando as ferramentas mais atuais como React.js, TailwindCSS, Radix, Storybook, Jest e MSW. Na parte do Figma foram utilizados conceitos e funcionalidades essenciais como auto-layout, componentização, variações de estado e criação de tokens. Também foi criado uma pipeline de integração e entrega contínua (CI/CD) utilizando o Github Actions e Github Pages.
 
-Na construção do layout utilizando o Figma, foram aplicados conceitos e funcionalidades essenciais, como auto-layout, componetização, variações e criação de tokens. Após a criação do layout, foi hora de colocar a mão no código, criando os components em React.js com Tailwind e documentando com Storybook. 
+[Documentação do Storybook](https://d0ugui.github.io/react-system-design/)
 
-Na parte final do projeto, foi configurado um ambiente automatizado de CI/CD utilizando o GitHub Actions e implementado alguns testes automatizados utilizando Jest e MSW.
-
-
-## 🧪 Tecnologias
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,tailwind,githubactions,jest)](https://skillicons.dev)
 
-## 🚀 Como executar
+## Getting Started
 
-Para inicializar o projeto localmente siga os passos descritos abaixo:
+1. **Install Dependencies**: `npm install or yarn`
+2. **Start aplication**: `npm run dev or yarn dev`
+3. **Storybook documentation**: `npm run storybook or yarn storybook`
 
-```bash
-# Clone o repositório
-$ git clone https://github.com/d0ugui/lab-ds
+## License
 
-# Entre no repositório
-$ cd lab-ds
+This software is available under the following licenses:
 
-# Instale as dependências
-$ npm install or yarn
-
-# Execute a aplicação
-$ npm run dev or yarn dev
-
-# Documentação do storybook
-$ npm run storybook or yarn storybook
-```
-
-## 📝 License
-
-Esse projeto está sob a licença MIT.
+- [MIT](https://rem.mit-license.org)
